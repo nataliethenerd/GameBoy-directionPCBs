@@ -3,3 +3,6 @@ Direction PCBs for the Game Boy line. These are common ground PCBs that can be u
 
 ### Navigating this repo
 Each folder includes the gerber files, and also all the KiCad files for the boards.
+
+- *.pretty* folders contain the footprints that are used on the board.
+- *.zip* files are the gerbers you send the the PCB manufacturer. Order at 1mm ENIG.
