@@ -15,6 +15,12 @@ Each folder includes the gerber files, and also all the KiCad files for the boar
 |-------------| -----|
 | ![gbcf](GBC_directional/GBC_directionalfront.png) | ![gbcb](GBC_directional/GBC_directionalfrontback.png) |
 
+#### Game Boy Pocket
+
+| Front | Back |
+|-------------| -----|
+| ![pocketf](Pocket_directional/Pocket_directionalf.png) | ![pocketb](Pocket_directional/Pocket_directionalb.png) |
+
 ## Follow me
 
 If you are into Game Boy modding or retro gaming, please consider using code "NatalieTheNerd" at:
