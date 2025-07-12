@@ -1,5 +1,6 @@
 # GameBoy direction PCBs
 Direction PCBs for the Game Boy line. These are common ground PCBs that can be used to create mods inside the various Game Boy Shells.
+Open source, do whatever you want to do with these! But dont use it to make a submersible controller...
 
 ### Navigating this repo
 Each folder includes the gerber files, and also all the KiCad files for the boards.
