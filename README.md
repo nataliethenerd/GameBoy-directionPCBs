@@ -9,17 +9,25 @@ Each folder includes the gerber files, and also all the KiCad files for the boar
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12T33R)
 
-#### Game Boy Color
+#### Game Boy DMG
 
 | Front | Back |
 |-------------| -----|
-| ![gbcf](GBC_directional/GBC_directionalfront.png) | ![gbcb](GBC_directional/GBC_directionalfrontback.png) |
+| ![DMGF](DMG_directional/DMG_directionalF.png) | ![DMGB](DMG_directional/DMG_directionalB.png) |
 
 #### Game Boy Pocket
 
 | Front | Back |
 |-------------| -----|
 | ![pocketf](Pocket_directional/Pocket_directionalF.png) | ![pocketb](Pocket_directional/Pocket_directionalB.png) |
+
+
+#### Game Boy Color
+
+| Front | Back |
+|-------------| -----|
+| ![gbcf](GBC_directional/GBC_directionalfront.png) | ![gbcb](GBC_directional/GBC_directionalfrontback.png) |
+
 
 ## Follow me
 
