@@ -19,7 +19,7 @@ Each folder includes the gerber files, and also all the KiCad files for the boar
 
 | Front | Back |
 |-------------| -----|
-| ![pocketf](Pocket_directional/Pocket_directionalf.png) | ![pocketb](Pocket_directional/Pocket_directionalb.png) |
+| ![pocketf](Pocket_directional/Pocket_directionalF.png) | ![pocketb](Pocket_directional/Pocket_directionalB.png) |
 
 ## Follow me
 
